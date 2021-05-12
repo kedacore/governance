@@ -4,12 +4,12 @@ Thank you for using KEDA!
 
 KEDA is an open-source project under CNCF Foundation and provides best-effort support and use GitHub for tracking bugs and feature requests. Sandbox projects in our organization are offered as-is and are not supported for production.
 
-Want to contribute a feature or fix? We are more than happy to review requests and contributions, but recommend going through our [contribution guide](./CONTRIBUTING.md).
+Want to contribute a feature or fix? We are more than happy to review requests and contributions, but recommend going through our [contribution guide](https://github.com/kedacore/keda/blob/main/CONTRIBUTING.md).
 
 ## Documentation
 
 * [User Documentation](https://keda.sh/)
-* [Troubleshooting Guide](https://keda.sh/docs/2.0/troubleshooting/)
+* [Troubleshooting Guide](https://keda.sh/docs/latest/troubleshooting/)
 * [FAQ](https://keda.sh/docs/latest/faq/)
 
 ## Community
