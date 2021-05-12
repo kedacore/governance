@@ -1,5 +1,9 @@
 # Governance
 
+## Voting
+
+All decisions made by maintainers have to be a [super-majority](https://en.wikipedia.org/wiki/Supermajority#Two-thirds_vote) where every maintainers representing the same company only have one vote. This enables our project to be neutral and not have a single company have more weight over others.
+
 ## Project Maintainers
 
 [Project maintainers](MAINTAINERS.md) are responsible for activities around
