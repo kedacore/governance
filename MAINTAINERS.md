@@ -4,16 +4,16 @@
 
 | Maintainer           | GitHub ID                                     | Affiliation |
 | -------------------- | --------------------------------------------- | ----------- |
-| Jeff Hollan          | [jeffhollan](https://github.com/jeffhollan)   | Microsoft   |
-| Anirudh Garg         | [anirudhgarg](https://github.com/anirudhgarg) | Microsoft   |
 | Ahmed ElSayed        | [ahmelsayed](https://github.com/ahmelsayed)   | Microsoft   |
-| Zbynek Roubalik      | [zroubalik](https://github.com/zroubalik)     | Red Hat     |
+| Jeff Hollan          | [jeffhollan](https://github.com/jeffhollan)   | Microsoft   |
 | Tom Kerkhove         | [tomkerkhove](https://github.com/tomkerkhove) | Codit       |
+| Zbynek Roubalik      | [zroubalik](https://github.com/zroubalik)     | Red Hat     |
 
 ## Alumni
 
 | Maintainer           | GitHub ID                                     | Affiliation |
 | -------------------- | --------------------------------------------- | ----------- |
 | Aarthi Saravanakumar | [Aarthisk](https://github.com/Aarthisk)       | Microsoft   |
-| Yaron Schneider      | [yaron2](https://github.com/yaron2)           | Microsoft   |
+| Anirudh Garg         | [anirudhgarg](https://github.com/anirudhgarg) | Microsoft   |
 | Ben Browning         | [bbrowning](https://github.com/bbrowning)     | Red Hat     |
+| Yaron Schneider      | [yaron2](https://github.com/yaron2)           | Microsoft   |
