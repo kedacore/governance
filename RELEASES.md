@@ -34,7 +34,7 @@ Every new major version, KEDA maintainers are allowed to remove features or make
 
 Along with such a release there will always be a migration guide to provide an overview of what has changed, what the impact is and how to migrate. Here is an example of our v1.x to v2.0 migration guide ([example](https://keda.sh/docs/latest/migration/)).
 
-For every one of these, KEDA will always announce a deprecation notice on [GitHub Discussions](https://github.com/kedacore/keda/discussions/categories/announcements) that provides context on why it is changing, what the impact is, when it will change and what steps that are required to be taken.
+For every one of these, KEDA will always announce a deprecation notice on [GitHub Discussions](https://github.com/kedacore/keda/discussions/categories/deprecations) that provides context on why it is changing, what the impact is, when it will change and what steps that are required to be taken.
 
 In majority of the cases, we will allow you to already migrate in the next minor version where we introduce the deprecation so that you can migrate fast.
 
