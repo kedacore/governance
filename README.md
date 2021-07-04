@@ -10,6 +10,7 @@ Provides resources related to governance of KEDA:
 - [Branding](BRANDING.md)
 - [Governance](GOVERNANCE.md)
 - [Maintainers](MAINTAINERS.md)
+- [Releases](RELEASES.md)
 - [Support](SUPPORT.md)
 
 We are a Cloud Native Computing Foundation (CNCF) sandbox project.
