@@ -2,7 +2,7 @@
 
 Each event source has unique characteristics on how KEDA needs to connect to it and the types of metrics available to drive scaling.  KEDA is made up of many *scalers*, or simple extensions to the core KEDA operator that allows it to connect to an event source.  The full list of supported scalers can [be found here](https://keda.sh/docs/scalers/).
 
-Scalers are shipped with KEDA in two ways.  Scalers are shipped with KEDA in two ways:
+Scalers are shipped with KEDA in two ways:
 - **Built-in Scalers** are packaged and merged into the core KEDA runtime
 - **Add-On Scalers** are external processes or pods that KEDA can communicate with to drive scale.
 Scalers that are built-in as part of the KEDA operator must be written as Go modules while add-on scalers can be written in any language.
