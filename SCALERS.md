@@ -21,6 +21,7 @@ However, an add-on scaler may be a better fit if your scaler has one or many of 
 * Written in a language other than Go
 * Connects to an event source that is specific to a small set of users. It is up to the maintainers, with the help of the community, to determine if a scaler may be too narrowly applicable to be included in the core operator.
 * Needs to be versioned or governed separately from the core operator
+* Requires additional infrastructure for the scaler to work (ie. HTTP add-on)
 
 Before a scaler can be accepted, it must be accompanied by appropriate end to end tests, and be thoroughly documented.
 
