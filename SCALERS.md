@@ -13,7 +13,7 @@ One of the easiest ways many people begin contributing to KEDA is by adding new 
 
 ### Building built-in or add-on scalers
 
-When building a scaler you'll need to determine if the scaler should be a built-in scaler shipped with every KEDA operator, or an add-on scaler that can be deployed and discovered independent of the core operator.  When building a scaler you'll need to determine if the scaler should be a built-in scaler shipped with every KEDA operator, or an external scaler that can be deployed and discovered independent of the core operator. 
+When building a scaler you'll need to determine if the scaler should be a built-in scaler shipped with every KEDA operator, or an add-on scaler that can be deployed and discovered independent of the core operator.
 In general if you are building a scaler that connects to a popular event source, you should consider writing them as built-in scalers in the `kedacore/keda` repo.
 However, an add-on scaler may be a better fit if your scaler has one or many of the below characteristics:
 
