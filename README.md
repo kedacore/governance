@@ -13,5 +13,5 @@ Provides resources related to governance of KEDA:
 - [Releases](RELEASES.md)
 - [Support](SUPPORT.md)
 
-We are a Cloud Native Computing Foundation (CNCF) sandbox project.
+We are a Cloud Native Computing Foundation (CNCF) incubation project.
 <p align="center"><img src="logos/logo-cncf.svg" height="75px"></p>
