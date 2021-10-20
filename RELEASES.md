@@ -6,9 +6,7 @@ KEDA uses semantic versioning so that their users can reliably upgrade according
 
 ## Release Cycle
 
-As of today, KEDA is typically shipped on demand without a fixed release schedule.
-
-However, this is currently being discussed on [GitHub](https://github.com/kedacore/governance/issues/24).
+KEDA is using a release schedule of 2 to 3 months and uses [GitHub milestones](https://github.com/kedacore/keda/milestones) to provide an indiciation of when the next release is planned. It can, however, happen that releases get delayed which will be reflected on the milestone.
 
 ## Release Process
 
