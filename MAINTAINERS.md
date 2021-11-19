@@ -6,7 +6,7 @@
 | --------------------- | --------------------------------------------- | ---------------------------- |
 | Ahmed ElSayed         | [ahmelsayed](https://github.com/ahmelsayed)   | Microsoft                    |
 | Jeff Hollan           | [jeffhollan](https://github.com/jeffhollan)   | Microsoft                    |
-| Jorge Turrado Ferrero | [jorturfer](https://github.com/jorturfer)     | Docplanner                   |
+| Jorge Turrado Ferrero | [jorturfer](https://github.com/jorturfer)     | Docplanner Tech              |
 | Tom Kerkhove          | [tomkerkhove](https://github.com/tomkerkhove) | Microsoft (Previously Codit) |
 | Zbynek Roubalik       | [zroubalik](https://github.com/zroubalik)     | Red Hat                      |
 
