@@ -2,12 +2,13 @@
 
 ## Current
 
-| Maintainer           | GitHub ID                                     | Affiliation                   |
-| -------------------- | --------------------------------------------- | ----------------------------- |
-| Ahmed ElSayed        | [ahmelsayed](https://github.com/ahmelsayed)   | Microsoft                     |
-| Jeff Hollan          | [jeffhollan](https://github.com/jeffhollan)   | Microsoft                     |
-| Tom Kerkhove         | [tomkerkhove](https://github.com/tomkerkhove) | Microsoft (Previously Codit)  |
-| Zbynek Roubalik      | [zroubalik](https://github.com/zroubalik)     | Red Hat                       |
+| Maintainer            | GitHub ID                                     | Affiliation                  |
+| --------------------- | --------------------------------------------- | ---------------------------- |
+| Ahmed ElSayed         | [ahmelsayed](https://github.com/ahmelsayed)   | Microsoft                    |
+| Jeff Hollan           | [jeffhollan](https://github.com/jeffhollan)   | Microsoft                    |
+| Jorge Turrado Ferrero | [jorturfer](https://github.com/jorturfer)     | Docplanner                   |
+| Tom Kerkhove          | [tomkerkhove](https://github.com/tomkerkhove) | Microsoft (Previously Codit) |
+| Zbynek Roubalik       | [zroubalik](https://github.com/zroubalik)     | Red Hat                      |
 
 ## Alumni
 
