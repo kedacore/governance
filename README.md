@@ -13,6 +13,7 @@ Provides resources related to governance of KEDA:
 - [Governance](GOVERNANCE.md)
 - [Maintainers](MAINTAINERS.md)
 - [Releases](RELEASES.md)
+- [Roadmap](https://github.com/kedacore/keda/blob/main/ROADMAP.md)
 - [Support](SUPPORT.md)
 
 We are a Cloud Native Computing Foundation (CNCF) incubation project.
