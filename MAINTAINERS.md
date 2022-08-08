@@ -5,9 +5,9 @@
 | Maintainer            | GitHub ID                                     | Affiliation                  |
 | --------------------- | --------------------------------------------- | ---------------------------- |
 | Ahmed ElSayed         | [ahmelsayed](https://github.com/ahmelsayed)   | Microsoft                    |
-| Jeff Hollan           | [jeffhollan](https://github.com/jeffhollan)   | Microsoft                    |
+| Jeff Hollan           | [jeffhollan](https://github.com/jeffhollan)   | Snowflake                    |
 | Jorge Turrado Ferrero | [jorturfer](https://github.com/jorturfer)     | Docplanner Tech              |
-| Tom Kerkhove          | [tomkerkhove](https://github.com/tomkerkhove) | Microsoft (Previously Codit) |
+| Tom Kerkhove          | [tomkerkhove](https://github.com/tomkerkhove) | Microsoft                    |
 | Zbynek Roubalik       | [zroubalik](https://github.com/zroubalik)     | Red Hat                      |
 
 ## Alumni
