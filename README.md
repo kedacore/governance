@@ -16,6 +16,7 @@ Provides resources related to governance of KEDA:
 - **Roadmap**
   - [KEDA Core](https://github.com/kedacore/keda/blob/main/ROADMAP.md)
   - [KEDA HTTP Add-On](https://github.com/kedacore/http-add-on/blob/main/ROADMAP.md)
+- [**Scaler Governance**](SCALERS.md)
 - [**Support**](SUPPORT.md)
 
 We are a Cloud Native Computing Foundation (CNCF) incubation project.
