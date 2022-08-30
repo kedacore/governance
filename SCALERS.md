@@ -49,6 +49,21 @@ There have been exceptions where they have been added to the KEDA organization, 
 
 Every external scaler inside the KEDA organization will have a liason which acts as a contact person between the KEDA maintainers and scaler maintainers. In case of a need, KEDA maintainers can influence requirements for new releases in order to ensure end-users have the best experience using the scalers in a consistent manner that fits the KEDA ecosystem.
 
+### Changing ownership of a built-in scaler
+
+At a certain point in time, it is possible that a maintainer of a scaler is no longer possible/interested in maintaining a scaler. The same goes for community-maintained scalers where one or more people/company want to become the maintainer of a scaler.
+
+In both cases, this change of scaler ownership has to be proposed to the KEDA maintainers and be discussed by opening an issue on [our GitHub repository](https://github.com/kedacore/governance). It should elaborate on the motivation of this change and why this should be changed.
+
+However, this decision should not be taken lightly as KEDA end-users rely on scalers. When a scaler transitions from dedicated maintainers to community-maintained, this can have implications on our end-users and raise concerns as they used to have (better) support on these scalers.
+
+Once there is an agreement across the maintainers, the change of ownership will be made and communicated:
+
+- An announcement will be made on [GitHub Discussions](https://github.com/kedacore/keda/discussions/categories/announcements)
+- Codeowners file in our Core repo must be updated
+- The KEDA documentation must be updated to reflect the new maintainers
+- The next KEDA release will include a note in the changelog with the new scaler maintainer(s)/community-based maintenance
+
 ## Building an ecosystem around external scalers
 
 While external scalers are not part of KEDA's core, we highly encourage the community and vendors to build them and make sure they are discoverable.
