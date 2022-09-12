@@ -20,7 +20,7 @@ There are no exceptions to this rule.
 
 ### Custom Resource Definitions (CRDs)
 
-Our customer resource definitions (CRDs) have a seperate versioning from the KEDA runtime given they have an `apiVersion`.
+Our custom resource definitions (CRDs) have a seperate versioning from the KEDA runtime given they have an `apiVersion`.
 
 KEDA is allowed to make breaking changes to the CRDs, when a new `apiVersion` is introduced.
 
