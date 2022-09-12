@@ -10,7 +10,7 @@ KEDA is using a release schedule of 2 to 3 months and uses [GitHub milestones](h
 
 ## Release Process
 
-You can learn about our release process [here](https://github.com/kedacore/keda/blob/main/RELEASE-PROCESS.MD).
+You can learn about our release process [here](https://github.com/kedacore/keda/blob/main/RELEASE-PROCESS.md).
 
 ## Keeping Track Of Changes
 
