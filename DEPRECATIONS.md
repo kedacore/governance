@@ -26,7 +26,7 @@ KEDA is allowed to make breaking changes to the CRDs, when a new `apiVersion` is
 
 However, the KEDA runtime must support all current API versions until the next major version of KEDA.
 
-### Autoscaling triggers and its metadata
+### Autoscaling triggers and their metadata
 
 Until KEDA introduces a [versioning scheme for autoscaling triggers](https://github.com/kedacore/keda/issues/613), it is not allowed to make breaking changes for triggers.
 
