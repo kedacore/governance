@@ -6,7 +6,7 @@
 | --------------------- | --------------------------------------------- | ---------------------------- |
 | Ahmed ElSayed         | [ahmelsayed](https://github.com/ahmelsayed)   | Microsoft                    |
 | Jeff Hollan           | [jeffhollan](https://github.com/jeffhollan)   | Snowflake                    |
-| Jorge Turrado Ferrero | [jorturfer](https://github.com/jorturfer)     | Docplanner Tech              |
+| Jorge Turrado Ferrero | [jorturfer](https://github.com/jorturfer)     | Independent                  |
 | Tom Kerkhove          | [tomkerkhove](https://github.com/tomkerkhove) | Microsoft                    |
 | Zbynek Roubalik       | [zroubalik](https://github.com/zroubalik)     | Red Hat                      |
 
