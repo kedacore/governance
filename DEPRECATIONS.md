@@ -20,7 +20,7 @@ There are no exceptions to this rule.
 
 ### Custom Resource Definitions (CRDs)
 
-Our custom resource definitions (CRDs) have a seperate versioning from the KEDA runtime given they have an `apiVersion`.
+Our custom resource definitions (CRDs) have a separate versioning scheme than the KEDA runtime given they have an `apiVersion`. For this, we follow the [official Kubernetes API versioning policy](https://kubernetes.io/docs/reference/using-api/#api-versioning).
 
 KEDA is allowed to make breaking changes to the CRDs, when a new `apiVersion` is introduced.
 
