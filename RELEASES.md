@@ -6,7 +6,7 @@ KEDA uses semantic versioning so that their users can reliably upgrade according
 
 ## Release Cycle
 
-KEDA is using a release schedule of 2 to 3 months and uses [GitHub milestones](https://github.com/kedacore/keda/milestones) to provide an indiciation of when the next release is planned. It can, however, happen that releases get delayed which will be reflected on the milestone.
+You can learn about our roadmap and upcoming releases [here](https://github.com/kedacore/keda/blob/main/ROADMAP.md).
 
 ## Release Process
 
