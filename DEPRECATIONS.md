@@ -18,6 +18,14 @@ Our custom resource definitions (CRDs) have a separate versioning scheme than th
 
 KEDA is allowed to make breaking changes to the CRDs, when a new `apiVersion` is introduced.
 
+### Experimental features
+
+New features in KEDA can be marked as experimental which means end-users can use them; but they are not supported by the KEDA team yet. KEDA can make any breaking changes to experimental features without any deprecation period.
+
+Experimental features are only available for evaluation and *not recommended for production use*.
+
+An overview of experimental features will become available in the documentation and graduation to stable features are communicated in the release notes.
+
 ### Autoscaling triggers and their metadata
 
 Until KEDA introduces a [versioning scheme for autoscaling triggers](https://github.com/kedacore/keda/issues/613), it is not allowed to make breaking changes for triggers.
