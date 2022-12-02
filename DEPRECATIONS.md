@@ -8,9 +8,9 @@ If you are interested in the current open deprecations, we recommend checking ou
 
 KEDA follows the deprecation strategy of Kubernetes and is allowed to make breaking changes in minor versions after a deprecation period.
 
-The KEDA runtime, which consists of the operator and metric server, will provide support on the deprecated features for 4 releases/1 year after the deprecation was announced. In the following release, the feature will be removed.
+The KEDA runtime, which consists of the operator and metric server, will provide support on the deprecated features for 6 months (currently the equivalent of 2 releases) after the deprecation was announced. In the following release, the feature will be removed.
 
-Depending on the area of the change, KEDA might not wait 4 releases to introduce a breaking change because one of its dependencies such as Kubernetes or scaler dependencies. However, these are the only exceptions to the rule.
+Depending on the area of the change, KEDA might not wait the above mentioned deprecation period to introduce a breaking change because one of its dependencies such as Kubernetes or scaler dependencies. However, these are the only exceptions to the rule.
 
 ### Custom Resource Definitions (CRDs)
 
