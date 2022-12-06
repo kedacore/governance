@@ -8,6 +8,7 @@
 
 Provides resources related to governance of KEDA:
 
+- [**Breaking Changes & Deprecation Policy**](DEPRECATIONS.md)
 - [**Branding**](BRANDING.md)
 - [**Code of Conduct**](https://github.com/kedacore/.github/blob/main/CODE_OF_CONDUCT.md)
 - [**Governance**](GOVERNANCE.md)
