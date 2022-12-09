@@ -6,6 +6,8 @@ KEDA is an open-source project under CNCF Foundation and provides best-effort su
 
 Want to contribute a feature or fix? We are more than happy to review requests and contributions, but recommend going through our [contribution guide](https://github.com/kedacore/keda/blob/main/CONTRIBUTING.md).
 
+Learn about our [breaking change and deprecation policy](DEPRECATIONS.md).
+
 ## Documentation
 
 * [User Documentation](https://keda.sh/)
