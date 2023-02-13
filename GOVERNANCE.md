@@ -48,3 +48,7 @@ maintainers will vote and require a [super-majority](https://en.wikipedia.org/wi
 of the current maintainers.
 
 When KEDA wants to archive an existing project, maintainers have to take vote where  a [super-majority](https://en.wikipedia.org/wiki/Supermajority#Two-thirds_vote) of the current maintainers agrees to archive the project with a clear indication of why it is being archived. We must not delete projects to avoid customer confusion.
+
+## Scaler Governance
+
+One of the main benefits of KEDA is its [rich catalog of scalers](https://keda.sh/docs/latest/scalers/) which are provided and maintained. Given the wide-range of scalers, KEDA has provided a [dedicated scaler governance](SCALERS.md) to govern them.
