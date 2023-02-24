@@ -68,7 +68,7 @@ When introducing a new deprecation, it must comply with the following rules:
 - Every deprecation must be announced in the release notes and will be highlighted in the upcoming release(s)
 - Every deprecation must have a warning in the KEDA logs to create awareness
 - Every deprecation must be documented on `keda.sh` and explicitly mention timelines
-  - We recommend using this as inspiration: `# DEPRECATED: This parameter is deprecated as of KEDA v2.10 and will be removed in version 2.12`
+  - We recommend using this as inspiration: `# DEPRECATED: This parameter is deprecated as of KEDA v2.10 in favor of {replacement} and will be removed in version 2.12`
 - Every deprecation must have a representing issue that is used for tracking breaking changes for our upcoming major version.
   - Because of that, it must be labeled with [`breaking-change`](https://github.com/kedacore/keda/issues?q=is%3Aopen+label%3Abreaking-change+sort%3Aupdated-desc)
   - A label will be added to indicate the version in which it will be removed, example `removal:keda-v2.12`.
