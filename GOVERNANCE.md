@@ -16,6 +16,9 @@ will be automatically removed unless a
 the other project maintainers agrees to extend the period to be greater than 3
 months.
 
+If a maintainer violates our [code of conduct](CODE_OF_CONDUCT.md), a [super-majority](https://en.wikipedia.org/wiki/Supermajority#Two-thirds_vote) vote will be
+performed by the other project maintainers to determine the future of the maintainer.
+
 New maintainers can be added to the project by a
 [super-majority](https://en.wikipedia.org/wiki/Supermajority#Two-thirds_vote)
 vote of the existing maintainers. A potential maintainer may be nominated by an
