@@ -12,7 +12,7 @@ All decisions made by maintainers have to be a [super-majority][super-majority] 
 
 Existing and potential maintainers are expected to do the following:
 
-- **Actively contribute to the project** which can be in various ways.
+- **Actively contribute to the project** which can be in various ways. Contributions should be consistent over at least two months.
   - Examples of valuable contributions are writing code/tests, writing documentation, governance, triaging issues, review code, automating processes and workflows, etc.
 - **Join our [bi-weekly standups][standup] regularly**
 - **Respect our [Code of Conduct][code-of-conduct]**
