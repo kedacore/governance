@@ -23,6 +23,19 @@ Maintainers MUST remain active. If they are unresponsive for >3 months, they can
 
 If a maintainer violates our [Code of Conduct][code-of-conduct], all maintainers will discuss the incident allowing the maintainer to give background and other maintainers will cast a vote. If the vote results in a [super-majority][super-majority], then the maintainer needs to step down and leave the maintainer board.
 
+#### Approving & Merging PRs
+
+Maintainers will approve PRs only when:
+
+- It meets the [scaler requirements](https://github.com/kedacore/governance/blob/main/SCALERS.md)
+- It meets the [deprecation/breaking change requirements](https://github.com/kedacore/governance/blob/main/DEPRECATIONS.md)
+- It is in line with the goal of the project
+- It does not violate the [code of conduct](https://github.com/kedacore/governance/blob/main/CODE_OF_CONDUCT.md).
+
+In case of dispute, other maintainers are requested to review and agree what the best outcome is of a PR.
+
+Once a single maintainer approves a PR, they can merge it unless they want to have a second pair of eyes. (optional)
+
 ### Becoming A Maintainer
 
 New maintainers can be added to the project by a [super-majority][super-majority]
