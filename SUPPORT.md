@@ -30,4 +30,4 @@ However, maintainers can decide to extend this by supporting more minor versions
 
 > Example - At time of writing, Kubernetes 1.25 is the latest minor version so KEDA can only use new features that were introduced in 1.23
 
-You can learn more about the currently supported Kubernetes version in our [FAQ](https://keda.sh/docs/latest/faq/).
+You can learn more about the currently supported Kubernetes version in our [documentation]([https://keda.sh/docs/latest/faq/](https://keda.sh/docs/latest/operate/cluster/)).
