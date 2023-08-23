@@ -1,6 +1,6 @@
 # Branding
 
-Kubernetes-based Event Driven Autoscaling is a CNCF Incubation project and follows to the [CNCF/LF trademark usage](https://www.linuxfoundation.org/trademark-usage/).
+Kubernetes-based Event Driven Autoscaling is a CNCF Graduated project and follows to the [CNCF/LF trademark usage](https://www.linuxfoundation.org/trademark-usage/).
 
 When referring to Kubernetes-based Event Driven Autoscaling in short, it should be called "KEDA" with full upper-casing.
 
