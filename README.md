@@ -20,5 +20,5 @@ Provides resources related to governance of KEDA:
 - [**Scaler Governance**](SCALERS.md)
 - [**Support**](SUPPORT.md)
 
-We are a Cloud Native Computing Foundation (CNCF) incubation project.
+We are a Cloud Native Computing Foundation (CNCF) graduated project.
 <p align="center"><img src="logos/logo-cncf.svg" height="75px"></p>
