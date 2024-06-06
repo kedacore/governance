@@ -11,10 +11,10 @@
 
 ## Alumni
 
-| Maintainer           | GitHub ID                                     | Affiliation (at time of stepping down) |
-| -------------------- | --------------------------------------------- | ----------- |
-| Aarthi Saravanakumar | [Aarthisk](https://github.com/Aarthisk)       | Microsoft   |
-| Ahmed ElSayed        | [ahmelsayed](https://github.com/ahmelsayed)   | Microsoft   |
-| Anirudh Garg         | [anirudhgarg](https://github.com/anirudhgarg) | Microsoft   |
-| Ben Browning         | [bbrowning](https://github.com/bbrowning)     | Red Hat     |
-| Yaron Schneider      | [yaron2](https://github.com/yaron2)           | Microsoft   |
+| Maintainer           | GitHub ID                                     |
+| -------------------- | --------------------------------------------- |
+| Aarthi Saravanakumar | [Aarthisk](https://github.com/Aarthisk)       |
+| Ahmed ElSayed        | [ahmelsayed](https://github.com/ahmelsayed)   |
+| Anirudh Garg         | [anirudhgarg](https://github.com/anirudhgarg) |
+| Ben Browning         | [bbrowning](https://github.com/bbrowning)     |
+| Yaron Schneider      | [yaron2](https://github.com/yaron2)           |
