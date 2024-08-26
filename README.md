@@ -11,6 +11,7 @@ Provides resources related to governance of KEDA:
 - [**Breaking Changes & Deprecation Policy**](DEPRECATIONS.md)
 - [**Branding**](BRANDING.md)
 - [**Code of Conduct**](CODE_OF_CONDUCT.md)
+- [**Community**](COMMUNITY.md)
 - [**Governance**](GOVERNANCE.md)
 - [**Maintainers**](MAINTAINERS.md)
 - [**Releases**](RELEASES.md)
