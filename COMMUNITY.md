@@ -16,4 +16,4 @@ We are supporting the following badges:
 | Documentarian |  This badge recognizes excellence in documentation contributions to CNCF and its projects. Excellent technical documentation is one of the best ways projects can lower the barrier to contribution. | Intermediate | |
 | Chop Wood Carry Water | A distinguished badge for community contributors that focus on the non-shiny improvements of KEDA, such as test automation/coverage/stability, quality/performance improvements, security, etc. | Intermediate | |
 
-If you believe you apply to the criteria for one of these badges, feel free to reach out to [cncf-keda-maintainers@](mailto:) and explain why you believe you qualify for a badge.
+If you believe you apply to the criteria for one of these badges, feel free to reach out to [cncf-keda-maintainers@lists.cncf.io](mailto:cncf-Keda-maintainers@lists.cncf.io) and explain why you believe you qualify for a badge.
