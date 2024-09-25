@@ -17,5 +17,5 @@
 | Ahmed ElSayed        | [ahmelsayed](https://github.com/ahmelsayed)   |
 | Anirudh Garg         | [anirudhgarg](https://github.com/anirudhgarg) |
 | Ben Browning         | [bbrowning](https://github.com/bbrowning)     |
-| Tom Kerkhove         | [bbrowning](https://github.com/tomkerkhove)   |
+| Tom Kerkhove         | [tomkerkhove](https://github.com/tomkerkhove)   |
 | Yaron Schneider      | [yaron2](https://github.com/yaron2)           |
