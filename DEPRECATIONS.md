@@ -65,12 +65,19 @@ Every deprecation must follow our process described below.
 
 When introducing a new deprecation, it must comply with the following rules:
 
-- Every deprecation must be announced in the release notes and will be highlighted in the upcoming release(s)
-- Every deprecation must have a warning in the KEDA logs to create awareness
-- Every deprecation must be documented on `keda.sh` and explicitly mention timelines
-  - We recommend using this as inspiration: `# DEPRECATED: This parameter is deprecated as of KEDA v2.10 in favor of {replacement} and will be removed in version 2.12`
-- Every deprecation must have a representing issue that is used for tracking breaking changes for our upcoming major version.
+- Every deprecation announcement must be mentioned in the release notes and will be highlighted in the upcoming release(s)
+- Every deprecation announcement is typically for two releases
+- Every deprecation announcement must have a warning in the KEDA logs to create awareness
+  - We recommend using this as inspiration: `The '{parameter}' setting is DEPRECATED and will be removed in v2.18 - Use '{replacement}' instead`
+  - We recommend using the `deprecatedAnnounce` parameter
+- Every deprecation announcement must be documented on [`keda.sh`](https://github.com/kedacore/keda-docs) and explicitly mention timelines
+  - We recommend using this as inspiration: # DEPRECATED: This parameter is deprecated as of KEDA v2.16 in favor of {replacement} and will be removed in version 2.18`
+- Every deprecation announcement must have a representing issue that is used for tracking breaking changes for our upcoming major version.
   - Because of that, it must be labeled with [`breaking-change`](https://github.com/kedacore/keda/issues?q=is%3Aopen+label%3Abreaking-change+sort%3Aupdated-desc)
-  - A label will be added to indicate the version in which it will be removed, example `removal:keda-v2.12`.
-- Every deprecation must be announced on [GitHub Discussions](https://github.com/kedacore/keda/discussions/categories/deprecations) ([example](https://github.com/kedacore/keda/discussions/3552))
+  - A label will be added to indicate the version in which it will be removed, example `removal:keda-v2.18`.
+- Every deprecation announcement must be announced on [GitHub Discussions](https://github.com/kedacore/keda/discussions/categories/deprecations) ([example](https://github.com/kedacore/keda/discussions/3552))
   - It should explain when the deprecation takes effect, what the impact is, how to migrate and when it will be removed.
+- After the period of deprecation announcement, the announcement must be converted to a deprecated status, triggering an error.
+  - We recommend using this as inspiration: `The '{parameter}' setting is DEPRECATED and is removed in v2.18 - Use '{replacement}' instead` 
+  - We recommend using the `deprecated` parameter
+  - Every deprecation is typically for two releases and removed after that
