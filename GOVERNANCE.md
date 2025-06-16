@@ -82,7 +82,7 @@ Apart from the conditions above, all the required checks in the PR have to pass.
 
 In case of dispute, other maintainers are requested to review and agree what the best outcome is of a PR.
 
-Once a single maintainer approves a PR, they can merge it unless they want to have a second pair of eyes. (optional)
+Repositories with 5 or more members require at least 2 approvals to merge changes which are not explicitly small (dependencies bumps, a few lines fixes, etc)
 
 ### Becoming a member
 
