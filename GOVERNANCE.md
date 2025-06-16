@@ -89,11 +89,11 @@ Once a single maintainer approves a PR, they can merge it unless they want to ha
 New members can be added to the project by a [super-majority][super-majority]
 vote of the existing maintainers after a potential member was nominated by an existing maintainer. A vote is conducted in private between the current maintainers over the course of a two weeks voting period, unless one or more maintainers are on time off. At the end of the week, votes are counted and a pull request is made on the repo adding the new member to the [Members](MEMBERS.md) file once the voting has a [super-majority][super-majority].
 
-Individuals interested in becoming member may submit an [issue][create-governance-issue] stating their interest.  Existing maintainers can choose if they would like to nominate these individuals to be a maintainer following the process above.
+Individuals interested in becoming a member may submit an [issue][create-governance-issue] stating their interest.  Existing maintainers can choose if they would like to nominate these individuals to be a maintainer following the process above.
 
 ### Stepping Down As A Maintainer
 
-A members may step down by submitting an [issue][create-governance-issue] stating their intent.
+A member may step down by submitting an [issue][create-governance-issue] stating their intent.
 
 ## Managing Projects
 
