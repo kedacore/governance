@@ -54,7 +54,7 @@ Organization Maintainers are responsible for the overall direction, health, and 
 - Approve and coordinate project-wide initiatives
 - Resolve escalated issues and disagreements
 - Nominate and vote on new maintainers
-- Act as mainteiner for all the 
+- Act as maintainer for all repositories
 
 ### Considerations
 
