@@ -13,7 +13,7 @@ Provides resources related to governance of KEDA:
 - [**Code of Conduct**](CODE_OF_CONDUCT.md)
 - [**Community**](COMMUNITY.md)
 - [**Governance**](GOVERNANCE.md)
-- [**Maintainers**](MAINTAINERS.md)
+- [**Members**](MEMBERS.md)
 - [**Releases**](RELEASES.md)
 - **Roadmap**
   - [KEDA Core](https://github.com/kedacore/keda/blob/main/ROADMAP.md)
