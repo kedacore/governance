@@ -67,7 +67,7 @@ If a member violates our [Code of Conduct][code-of-conduct], all maintainers wil
 
 All decisions made by maintainers have to be a [super-majority][super-majority] where every maintainers representing the same company only have one vote. This enables our project to be neutral and not have a single company have more weight over others. 
 
-**Note:** If there isn't any consensus between all the maintainers involved in the dicussion (project maintainers in the scope of the decision and organization maintainers), another vote will be casted only including organization maintainers.
+**Note:** If there isn't any consensus between all the maintainers involved in the discussion (project maintainers in the scope of the decision and organization maintainers), another vote will be casted only including organization maintainers.
 
 #### Approving & Merging PRs
 
