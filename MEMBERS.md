@@ -1,8 +1,6 @@
 # Kubernetes Event-driven Autoscaling (KEDA) Members
 
-## Current
-
-### Organization
+## Organization
 
 | Member                | GitHub ID                                     | Role                    | Affiliation                       |
 | --------------------- | --------------------------------------------- | ----------------------- |---------------------------------- |
@@ -11,7 +9,7 @@
 | Jorge Turrado Ferrero | [jorturfer](https://github.com/jorturfer)     | Organization Maintainer | SCRM Lidl International Hub       |
 | Zbynek Roubalik       | [zroubalik](https://github.com/zroubalik)     | Organization Maintainer | Kedify                            |
 
-### [keda](https://github.com/kedacore/keda)
+## [keda](https://github.com/kedacore/keda)
 
 | Member                | GitHub ID                                     | Role                    | Affiliation                       |
 | --------------------- | --------------------------------------------- | ----------------------- |---------------------------------- |
@@ -19,17 +17,17 @@
 | Rick Brouwer          | [rickbrouwer](https://github.com/rickbrouwer) | Repository Contributor  | Netherlands Ministry of Education |
 | Zhenghan Zhou         | [spiritzhou](https://github.com/spiritzhou)   | Repository Contributor  | Microsoft                         |
 
-### [keda-docs](https://github.com/kedacore/keda-docs)
+## [keda-docs](https://github.com/kedacore/keda-docs)
 
 | Member                | GitHub ID                                     | Role                    | Affiliation                       |
 | --------------------- | --------------------------------------------- | ----------------------- |---------------------------------- |
 
-### [charts](https://github.com/kedacore/charts)
+## [charts](https://github.com/kedacore/charts)
 
 | Member                | GitHub ID                                     | Role                    | Affiliation                       |
 | --------------------- | --------------------------------------------- | ----------------------- |---------------------------------- |
 
-### [http-add-on](https://github.com/kedacore/http-add-on)
+## [http-add-on](https://github.com/kedacore/http-add-on)
 
 | Member                | GitHub ID                                     | Role                    | Affiliation                       |
 | --------------------- | --------------------------------------------- | ----------------------- |---------------------------------- |
