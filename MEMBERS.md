@@ -1,13 +1,36 @@
 # Kubernetes Event-driven Autoscaling (KEDA) Members
 
-## Current
+## Organization
 
-| Member                | GitHub ID                                     | Role                    | Affiliation                  |
-| --------------------- | --------------------------------------------- | ----------------------- | ---------------------------- |
-| Jeff Hollan           | [jeffhollan](https://github.com/jeffhollan)   | Organization Maintainer | Snowflake                    |
-| Jorge Turrado Ferrero | [jorturfer](https://github.com/jorturfer)     | Organization Maintainer | SCRM Lidl International Hub  |
-| Zbynek Roubalik       | [zroubalik](https://github.com/zroubalik)     | Organization Maintainer | Kedify                       |
-| Jan Wozniak           | [wozniakjan](https://github.com/wozniakjan)   | Organization Maintainer | Kedify                       |
+| Member                | GitHub ID                                     | Role                    | Affiliation                       |
+| --------------------- | --------------------------------------------- | ----------------------- |---------------------------------- |
+| Jan Wozniak           | [wozniakjan](https://github.com/wozniakjan)   | Organization Maintainer | Kedify                            |
+| Jeff Hollan           | [jeffhollan](https://github.com/jeffhollan)   | Organization Maintainer | Snowflake                         |
+| Jorge Turrado Ferrero | [jorturfer](https://github.com/jorturfer)     | Organization Maintainer | SCRM Lidl International Hub       |
+| Zbynek Roubalik       | [zroubalik](https://github.com/zroubalik)     | Organization Maintainer | Kedify                            |
+
+## [keda](https://github.com/kedacore/keda)
+
+| Member                | GitHub ID                                     | Role                    | Affiliation                       |
+| --------------------- | --------------------------------------------- | ----------------------- |---------------------------------- |
+| Dao Thanh Tung        | [dttung2905](https://github.com/dttung2905)   | Repository Contributor  | SumUp                             |
+| Rick Brouwer          | [rickbrouwer](https://github.com/rickbrouwer) | Repository Contributor  | Dienst Uitvoering Onderwijs |
+| Zhenghan Zhou         | [spiritzhou](https://github.com/spiritzhou)   | Repository Contributor  | Microsoft                         |
+
+## [keda-docs](https://github.com/kedacore/keda-docs)
+
+| Member                | GitHub ID                                     | Role                    | Affiliation                       |
+| --------------------- | --------------------------------------------- | ----------------------- |---------------------------------- |
+
+## [charts](https://github.com/kedacore/charts)
+
+| Member                | GitHub ID                                     | Role                    | Affiliation                       |
+| --------------------- | --------------------------------------------- | ----------------------- |---------------------------------- |
+
+## [http-add-on](https://github.com/kedacore/http-add-on)
+
+| Member                | GitHub ID                                     | Role                    | Affiliation                       |
+| --------------------- | --------------------------------------------- | ----------------------- |---------------------------------- |
 
 ## Alumni
 
