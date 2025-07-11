@@ -13,9 +13,9 @@
 
 | Member                | GitHub ID                                     | Role                    | Affiliation                       |
 | --------------------- | --------------------------------------------- | ----------------------- |---------------------------------- |
-| Dao Thanh Tung        | [dttung2905](https://github.com/dttung2905)   | Repository Contributor  | SumUp                             |
-| Rick Brouwer          | [rickbrouwer](https://github.com/rickbrouwer) | Repository Contributor  | Dienst Uitvoering Onderwijs |
-| Zhenghan Zhou         | [spiritzhou](https://github.com/spiritzhou)   | Repository Contributor  | Microsoft                         |
+| Dao Thanh Tung        | [dttung2905](https://github.com/dttung2905)   | Repository Reviewer     | SumUp                             |
+| Rick Brouwer          | [rickbrouwer](https://github.com/rickbrouwer) | Repository Reviewer     | Dienst Uitvoering Onderwijs       |
+| Zhenghan Zhou         | [spiritzhou](https://github.com/spiritzhou)   | Repository Reviewer     | Microsoft                         |
 
 ## [keda-docs](https://github.com/kedacore/keda-docs)
 

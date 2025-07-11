@@ -2,9 +2,9 @@
 
 ## Community Roles
 
-### Repo Contributor
+### Repo Reviewer
 
-A Repo Contributor is a community member who has been consistently contributing to a specific KEDA repository over a period of 3–6 months. Contributions can include code, documentation, issue triaging, and regular engagement in PR reviews or discussions.
+A Repo Reviewer is a community member who has been consistently contributing to a specific KEDA repository over a period of 3–6 months. Contributions can include code, documentation, issue triaging, and regular engagement in PR reviews or discussions.
 
 **Responsibilities:**
 
@@ -20,7 +20,7 @@ A Repo Contributor is a community member who has been consistently contributing 
 
 ### Repo Maintainer
 
-A Repo Maintainer is a trusted contributor who has served as a Repo Contributor and has demonstrated long-term commitment and leadership in a given repository for an additional 3–6 months.
+A Repo Maintainer is a trusted contributor who has served as a Repo Reviewer and has demonstrated long-term commitment and leadership in a given repository for an additional 3–6 months.
 
 **Responsibilities:**
 
@@ -34,7 +34,7 @@ A Repo Maintainer is a trusted contributor who has served as a Repo Contributor 
 
 **Requirements:**
 
-- History of consistent contributions as a Repo Contributor (3–6 months)
+- History of consistent contributions as a Repo Reviewer (3–6 months)
 - Demonstrated understanding of the repository’s scope and architecture
 
 ### Organization Maintainers
