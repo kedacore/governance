@@ -1,4 +1,4 @@
-<p align="center"><img src="logos/keda-word-colour.png" width="300"/></p>
+<p align="center"><img src="logos/horizontal/color/keda-horizontal-color.png" width="300"/></p>
 
 
 <p style="font-size: 25px" align="center">
