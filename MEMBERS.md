@@ -13,7 +13,7 @@
 
 | Member                | GitHub ID                                     | Role                    | Affiliation                       |
 | --------------------- | --------------------------------------------- | ----------------------- |---------------------------------- |
-| Dao Thanh Tung        | [dttung2905](https://github.com/dttung2905)   | Repository Reviewer     | SumUp                             |
+| Dao Thanh Tung        | [dttung2905](https://github.com/dttung2905)   | Repository Reviewer     | Starling                          |
 | Rick Brouwer          | [rickbrouwer](https://github.com/rickbrouwer) | Repository Reviewer     | Dienst Uitvoering Onderwijs       |
 | Zhenghan Zhou         | [spiritzhou](https://github.com/spiritzhou)   | Repository Reviewer     | Microsoft                         |
 
