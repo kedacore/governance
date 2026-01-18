@@ -10,7 +10,7 @@ We are supporting the following badges:
 
 | Type | Description | Level | Notes |
 |:-----|:------------|:------|:------|
-| Maintainer | Defines a clear vision of the project to grow the project and help the cloud-native community to scale Kubernetes workloads efficiently.  | Advanced | Only issued to [KEDA Maintainers](MAINTAINERS.md)|
+| Maintainer | Defines a clear vision of the project to grow the project and help the cloud-native community to scale Kubernetes workloads efficiently.  | Advanced | Only issued to [KEDA Maintainers](MEMBERS.md)|
 | Scaler Maintainer | Maintain one or more built-in KEDA scaler. You don't commit and run, but help maintain the scaler! | Intermediate | |
 | Contributor | Contribute to the KEDA community and help with maintainers to make KEDA a better project, be it with code contributions, reviews and/or documentation improvements. | Intermediate | |
 | Documentarian |  This badge recognizes excellence in documentation contributions to CNCF and its projects. Excellent technical documentation is one of the best ways projects can lower the barrier to contribution. | Intermediate | |
