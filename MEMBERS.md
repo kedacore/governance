@@ -14,7 +14,7 @@
 | Member                | GitHub ID                                     | Role                    | Affiliation                       |
 | --------------------- | --------------------------------------------- | ----------------------- |---------------------------------- |
 | Dao Thanh Tung        | [dttung2905](https://github.com/dttung2905)   | Repository Reviewer     | Starling                          |
-| Rick Brouwer          | [rickbrouwer](https://github.com/rickbrouwer) | Repository Reviewer     | Dienst Uitvoering Onderwijs       |
+| Rick Brouwer          | [rickbrouwer](https://github.com/rickbrouwer) | Repository Maintainer   | Dienst Uitvoering Onderwijs       |
 | Zhenghan Zhou         | [spiritzhou](https://github.com/spiritzhou)   | Repository Reviewer     | Microsoft                         |
 
 ## [keda-docs](https://github.com/kedacore/keda-docs)
@@ -31,6 +31,8 @@
 
 | Member                | GitHub ID                                     | Role                    | Affiliation                       |
 | --------------------- | --------------------------------------------- | ----------------------- |---------------------------------- |
+| Mike Fedosin          | [Fedosin](https://github.com/Fedosin)         | Repository Maintainer   | Red Hat                           |
+| Vincent Link          | [linkvt](https://github.com/linkvt)           | Repository Maintainer   | Red Hat                           |
 
 ## Alumni
 
