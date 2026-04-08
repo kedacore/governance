@@ -6,7 +6,7 @@
 | --------------------- | --------------------------------------------- | ----------------------- |---------------------------------- |
 | Jan Wozniak           | [wozniakjan](https://github.com/wozniakjan)   | Organization Maintainer | Kedify                            |
 | Jeff Hollan           | [jeffhollan](https://github.com/jeffhollan)   | Organization Maintainer | Snowflake                         |
-| Jorge Turrado Ferrero | [jorturfer](https://github.com/jorturfer)     | Organization Maintainer | SCRM Lidl International Hub       |
+| Jorge Turrado Ferrero | [jorturfer](https://github.com/jorturfer)     | Organization Maintainer | Schwarz Digits                    |
 | Zbynek Roubalik       | [zroubalik](https://github.com/zroubalik)     | Organization Maintainer | Kedify                            |
 
 ## [keda](https://github.com/kedacore/keda)
